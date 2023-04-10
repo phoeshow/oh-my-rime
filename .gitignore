@@ -2,3 +2,9 @@
 .DS_Store
 user.yaml
 installation.yaml
+
+build
+custom_dict_en.userdb
+custom_dict.userdb
+
+trash
